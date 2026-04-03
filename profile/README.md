@@ -35,6 +35,7 @@ Click your way to the top! Gain clicks, grow your total, and contribute to the g
 Follow **Tyler's Gamez** to get news on new games, events, and secret surprises!  
 
 > "Always building something new, one game at a time." ✨
+
 [![Linktree](https://img.shields.io/badge/LINKTREE-TYLERGAMEZ-green?style=for-the-badge&logo=linktree)](https://linktree.ee/TylerGamez)
 [![X (Twitter)](https://img.shields.io/badge/X/TWITTER-TYLERGAMEZ-white?style=for-the-badge&logo=x)](https://x.com/TylerGamez)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN%20US-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/2Df7eczTrb)
