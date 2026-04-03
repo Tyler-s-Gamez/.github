@@ -19,6 +19,11 @@ Explore hidden paths, solve challenges, and uncover secrets around every branch.
 Become a Food Champion! Click, upgrade, and rebirth your way to food domination.  
 [Play on Roblox](https://www.roblox.com/games/75737449599839/Food-Clicker-2)
 
+### 🖱️ Button Game
+
+Click your way to the top! Gain clicks, grow your total, and contribute to the global count.
+[Play on Roblox](https://www.roblox.com/games/100623682145733/A-button)
+
 ---
 
 ## 🚀 Stay Updated
