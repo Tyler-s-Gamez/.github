@@ -24,6 +24,7 @@ Become a Food Champion! Click, upgrade, and rebirth your way to food domination.
 Click your way to the top! Gain clicks, grow your total, and contribute to the global count.
 [Play on Roblox](https://www.roblox.com/games/100623682145733/A-button)
 
+
 ---
 
 ## 🚀 Stay Updated
