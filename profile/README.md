@@ -48,6 +48,12 @@ Follow **Tyler's Gamez** to get news on new games, events, and secret surprises!
 [![YouTube](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://youtube.com/@TylerGamez0)
 [![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@tylergamez0)
 
+---
+
+<br />
+
 <div align="center">
-  <b>© 2026 Tyler’s Gamez. All rights reserved.</b>
+
+# **© 2026 Tyler’s Gamez. All rights reserved.**
+
 </div>
